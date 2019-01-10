@@ -1,0 +1,11 @@
+.bottomFooter {
+    position: fixed;
+    bottom:0px;
+    padding-top:1rem;
+    padding-bottom:1rem;
+    background-color: aliceblue;
+    width: 98vw;
+    font-size: 1.2rem;
+    margin-left: 1.6rem;
+    margin-right: 1.2rem;
+}
